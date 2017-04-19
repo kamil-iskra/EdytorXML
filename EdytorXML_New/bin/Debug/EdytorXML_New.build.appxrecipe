@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN8</Machine>
+    <WindowsUser>Kamil</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kamil\Documents\Visual Studio 2012\Projects\EdytorXML_New\EdytorXML_New\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kamil\Documents\Visual Studio 2012\Projects\EdytorXML_New\EdytorXML_New\bin\Debug\EdytorXML_New.exe">
+      <PackagePath>EdytorXML_New.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamil\Documents\Visual Studio 2012\Projects\EdytorXML_New\EdytorXML_New\bin\Debug\EdytorXML_New.pdb">
+      <PackagePath>EdytorXML_New.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamil\Documents\Visual Studio 2012\Projects\EdytorXML_New\EdytorXML_New\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamil\Documents\Visual Studio 2012\Projects\EdytorXML_New\EdytorXML_New\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamil\Documents\Visual Studio 2012\Projects\EdytorXML_New\EdytorXML_New\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamil\Documents\Visual Studio 2012\Projects\EdytorXML_New\EdytorXML_New\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamil\Documents\Visual Studio 2012\Projects\EdytorXML_New\EdytorXML_New\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamil\Documents\Visual Studio 2012\Projects\EdytorXML_New\EdytorXML_New\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamil\Documents\Visual Studio 2012\Projects\EdytorXML_New\EdytorXML_New\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamil\Documents\Visual Studio 2012\Projects\EdytorXML_New\EdytorXML_New\bin\Debug\Opis.xaml">
+      <PackagePath>Opis.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamil\Documents\Visual Studio 2012\Projects\EdytorXML_New\EdytorXML_New\bin\Debug\Start.xaml">
+      <PackagePath>Start.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kamil\Documents\Visual Studio 2012\Projects\EdytorXML_New\EdytorXML_New\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
